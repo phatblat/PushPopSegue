@@ -23,7 +23,7 @@
                                 <animations/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <segue destination="245-g5-SAV" kind="show" id="kDJ-E0-hLD">
+                                    <segue destination="245-g5-SAV" kind="show" identifier="PeekPop" id="kDJ-E0-hLD">
                                         <segue key="commit" inheritsFrom="parent" id="X2a-gH-Dii"/>
                                         <segue key="preview" inheritsFrom="commit" id="IoG-H7-CKb"/>
                                     </segue>

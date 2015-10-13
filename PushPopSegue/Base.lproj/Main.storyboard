@@ -39,6 +39,9 @@
                     </view>
                     <navigationItem key="navigationItem" id="DVc-dH-Tfe"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                    <connections>
+                        <segue destination="245-g5-SAV" kind="show" identifier="Manual" id="3O5-u0-Pe3"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
@@ -85,6 +88,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="kDJ-E0-hLD"/>
+        <segue reference="3O5-u0-Pe3"/>
     </inferredMetricsTieBreakers>
 </document>
